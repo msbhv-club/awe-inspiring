@@ -1,4 +1,7 @@
-# Ideias
+# No project or idea is off limits, as long as it's team member can find the resources for its production
+
+
+## Here a list
 
 0. [Bot](maritaca.md) 
 1. [Timeline School](timeline-school.md)
