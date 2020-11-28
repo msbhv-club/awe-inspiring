@@ -24,7 +24,7 @@ Criar um robô que seja agnóstico em termos de conteúdo, mas que possa servir 
 
 ## Arquitetura
 
-![Arquitetura do projeto Maritaca](https://github.com/msbhv-club/awe-inspiring/blob/main/images/maritaca_arch.jpg?raw=true)
+![Arquitetura do projeto Maritaca](https://github.com/msbhv-club/awe-inspiring/blob/main/images/maritaca_arch.png?raw=true)
 
 ## Tecnologias 
 
