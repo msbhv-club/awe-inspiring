@@ -10,4 +10,4 @@
 4. [Automatizar a produção de conteúdos educativos para TV garantindo uma programação 24x7](tv-247.md)
 5. [Multistudent Virtual Online School](mov-school.md)
 6. [Enigmas alinhados à BNCC](enigmas-bncc.md)
-7. [Ande para falar](walk-to-talk.md]
+7. [Ande para falar](walk-to-talk.md)
