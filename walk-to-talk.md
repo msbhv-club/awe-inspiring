@@ -26,7 +26,7 @@ URLs disponíveis:
 ## Tecnologia (WIP)
 
 
-O objetivo aqui é controlar os sensores de movimento (acelerômetro, giroscópio, etc) do celular. Certamente, um "camminho feliz" em termos de capacidade e flexibilidade de controrle dos sensores seria optar por desenvolver um app nativo, mas como eu quero que mais gente além dos meus amigos tenha uma experiência nesta ideias eu estou apostando que seja possível fazer algo com o browser via webapp/PWA. 
+O objetivo aqui é controlar os sensores de movimento (acelerômetro, giroscópio, etc) do celular. Certamente, um "caminho feliz" em termos de capacidade e flexibilidade de controle dos sensores seria optar por desenvolver um app nativo, mas como eu quero que mais pessoas, além dos meus amigxs, tenham uma experiência nesta ideia minha aposta é que seja possível fazer algo com o browser via webapp/PWA. 
 
 Dito isso, algumas ideias de [talvez] como implementar (preciso testar)
 
@@ -35,7 +35,7 @@ React
 * https://www.npmjs.com/package/react-mic p/ controlar o microfone
 * https://www.npmjs.com/package/react-native-volume-control p/ controlar o volume
 
-Além disso, provavelmente o maior desafio técnico será em executar o código em segundo plano, dado as restrições que iOS (Certamente) e Android possuem. 
+Além disso, provavelmente o maior desafio técnico será em executar o código em segundo plano, dado as restrições que iOS (provável) e Android possuem. 
 
 Outras funcionalidades: 
 - Acredito que não precisamos de servidor para registrar informações, mas algum tipo de monitoramento/telemetria anonimizada pode ser útil. 
@@ -45,7 +45,7 @@ Outras funcionalidades:
 
 - Acredito que seja possível gamificar, andou tanto, correu tanto, etc.
 - No limite, até uma parceria com empresas 'fit'.
-- Deixar claero a questão da privacidade, que não queremos "trackear" o usuário. 
+- Deixar claro a questão da privacidade, que não queremos "trackear" o usuário. 
 
 
 
