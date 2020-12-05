@@ -19,20 +19,30 @@
 
 ## Como implementar? 
 
+URLs disponíveis:
 walktotalk.club (USD 29)
 walktotalk.app (USD 69)
 
 ## Tecnologia (WIP)
 
-Algumas ideias
 
+O objetivo aqui é cntrolar os sensores de movimento (acelerômetro, giroscópio, etc) do celular. Certamente, um "camminho feliz" em termos de capacidade e flexibilidade de controrle dos sensores seria via um 'app' Nativo, mas como eu quero que mais gente além dos meus amigos tenha uma experiência eu estou apostando que é possível fazer algo com o browser via webapp. 
+
+Dito isso, algumas ideias de [talvez] como implementar (preciso testar)
+
+React
 * https://react-native-sensors.github.io/ para detectar movimento
 * https://www.npmjs.com/package/react-mic
 * https://www.npmjs.com/package/react-native-volume-control
 
+Além disso, provavelmente o maior desafio técnico será em executar o código em segundo plano, dado as restrições que iOS (Certamente) e Android possuem. 
+
+
 ## Outros 
 
-- Daria pra gamificar, andou tanto, correu tanto, etc
+- Acredito que seja possível gamificar, andou tanto, correu tanto, etc;
+- No limite até uma parceria com empresas 'fit'
+- 
 
 
 
