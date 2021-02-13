@@ -6,17 +6,18 @@ Hipótese
 
 > **ENTÃO** mais pessoas poderiam ouvir, mesmo que uma amostra, o que está acontecendo nesta rede social 
 
-> **ASSIM** aumentariamos a chances da versão para Android sair e/ou seriamos processados (não sem antes termos 15min. de fama)  
+> **ASSIM** aumentaríamos as chances da versão para Android sair com mais celeridade [será?] e/ou seriamos processados (não sem antes termos 15min. de fama ¯\_(ツ)_/¯) 
+
 
 ## Contexto
 
-Fevereiro/2021: O Clubhouse é a rede social/app hype do momento, [Brasil é o sexto em instalações no mundo](https://www.mobiletime.com.br/noticias/12/02/2021/brasil-e-o-sexto-em-instalacoes-do-clubhouse-revela-sensor-tower/)
+[Fevereiro/2021]
+• O Clubhouse é a rede social/app hype do momento, [Brasil é o sexto em instalações no mundo](https://www.mobiletime.com.br/noticias/12/02/2021/brasil-e-o-sexto-em-instalacoes-do-clubhouse-revela-sensor-tower/).
 
 ## Restrições 
 
 Atualmente os usuários que querem experimentar a rede precisam necessariamente de um CONVITE e ter um iPhone ou iPad para rodar o aplicativo. 
-
-Contudo, apenas [13.42% do mercado Brasileiro](https://gs.statcounter.com/os-market-share/mobile/brazil) é composto pelos aparelhos da Apple 
+Contudo, apenas [13.42% do market share Brasileiro](https://gs.statcounter.com/os-market-share/mobile/brazil) é composto pelos aparelhos da Apple.
 
 ## A ideia 
 
