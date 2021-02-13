@@ -1,11 +1,12 @@
-# Clubhouse para quem não tem iOS, como oferecer uma experiência parcial? 
+# Clubhouse para quem não tem iOS, como oferecer uma experiência mínima? 
 
+Hipótese
 
 > **SE** existisse uma forma dos usuários que não tem acesso ao iOS (13+) pudessem experimentar o conteúdo do Clubhouse 
 
 > **ENTÃO** mais pessoas poderiam ouvir, mesmo que uma amostra, o que está acontecendo nesta rede social 
 
-> **ASSIM** aumentariamos a chances da versão para Android sair e/ou não seriamos processados
+> **ASSIM** aumentariamos a chances da versão para Android sair e/ou seriamos processados (não sem antes termos 15min. de fama)  
 
 ## Contexto
 
@@ -19,14 +20,14 @@ Contudo, apenas [13.42% do mercado Brasileiro](https://gs.statcounter.com/os-mar
 
 ## A ideia 
 
-1. Criar um site com algumas opções de salas para seguir
+1. Criar um site com algumas opções de salas para seguir listens listenhouse.club
 2. O usuário faz um cadastro simples 
 3. No horário que aquela sala for ao ar nós tramsmitimos a "tela" para que eles possam ouvir
 
 
 ## Discussão
 
-
+- Deveriamos pensar em monetizar com propagandas o site e/ou cobrar 1 real via PIX para alguma instituição de caridade? 
 
 
 — metadatada —
