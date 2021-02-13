@@ -20,7 +20,7 @@ Contudo, apenas [13.42% do mercado Brasileiro](https://gs.statcounter.com/os-mar
 
 ## A ideia 
 
-1. Criar um site com algumas opções de salas para seguir listens listenhouse.club
+1. Criar um site com algumas opções de salas para seguir (ex. listenhouse.club) 
 2. O usuário faz um cadastro simples 
 3. No horário que aquela sala for ao ar nós tramsmitimos a "tela" para que eles possam ouvir
 
